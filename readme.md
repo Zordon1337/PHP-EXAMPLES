@@ -4,3 +4,5 @@
 
 
 ## LIST OF EXAMPLES ##
+
+###### Using GET requests - https://github.com/Zordon1337/PHP-EXAMPLES/tree/main/examples/Sending%20data%20using%20GET%20method ######
